@@ -1,3 +1,7 @@
+###### pkg.go.dev
+https://pkg.go.dev/github.com/mati5kova/vreme-meritve@v1.0.0
+
+
 # Vreme meritve
 
 Go modul za beleženje temperaturnih meritev vremenskih postaj.
